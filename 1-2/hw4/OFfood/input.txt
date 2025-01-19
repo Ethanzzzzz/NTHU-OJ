@@ -1,0 +1,17 @@
+4
+3
+report Lamb meat
+report Apple fruit
+report Banana fruit
+4
+mix Apple Lamb fruit meat
+report Pork meat
+report Tomato fruit
+throw Pork meat
+4
+report Grape fruit
+eat LambApple fruit
+report Sausage meat
+eat Grape fruit
+1
+eat Banana fruit
